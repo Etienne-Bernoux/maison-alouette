@@ -1,5 +1,6 @@
 ---
-permalink: /mention-legal/
+permalink: /mentions-legales/
+layout: default
 ---
 
 Le site maison-alouette.fr est édité par : Maison alouette
