@@ -47,10 +47,14 @@
 }
 
 .page__footer-menu {
-  margin: 0;
   padding: 0;
+  margin: 0;
   list-style-type: none;
   font-weight: bold;
+  li {
+    margin-right: $h-size-6;
+    display: inline-block;
+  }
 }
 
 .page__footer-copyright {

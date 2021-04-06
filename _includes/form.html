@@ -1,0 +1,12 @@
+<form action="https://formspree.io/f/xdoyozyo" method="POST">
+    <label>
+    {{ page.form.email-text}}
+    <input type="email" name="_replyto">
+  </label>
+    <label>
+      {{ page.form.message-text}}
+    <textarea name="message"></textarea>
+  </label>
+
+    <button type="submit">{{ page.form.send-text }}</button>
+</form>

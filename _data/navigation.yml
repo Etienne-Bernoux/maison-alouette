@@ -1,3 +1,9 @@
 main:
   - title: "Boutique"
     url: https://shop.maison-alouette.fr
+
+footer:
+  - title: Mention légal
+    url: /mentions-legales/
+  - title: Nous contacter
+    url: /contact/
