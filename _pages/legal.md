@@ -1,6 +1,9 @@
 ---
 permalink: /mentions-legales/
-layout: default
+layout: single
+title: Mentions légales
+header:
+    overlay_image: assets/images/alouettedeMarnhac-Photographeb-33.jpg
 ---
 
 Le site maison-alouette.fr est édité par : Maison alouette

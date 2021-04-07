@@ -1,4 +1,6 @@
 main:
+  - title: "L'équipe"
+    url: /about/
   - title: "Boutique"
     url: https://shop.maison-alouette.fr
 
