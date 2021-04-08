@@ -5,7 +5,7 @@ main:
     url: /about/
 
 footer:
-  - title: Mention légal
+  - title: Mentions légales
     url: /mentions-legales/
   - title: Nous contacter
     url: /contact/
