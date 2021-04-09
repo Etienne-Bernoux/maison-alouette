@@ -276,5 +276,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/maison.alouette"
 
+head_scripts:
+  - /assets/js/gdpr.js
+
 after_footer_scripts:
   - https://www.instagram.com/embed.js
