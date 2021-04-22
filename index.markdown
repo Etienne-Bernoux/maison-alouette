@@ -6,7 +6,7 @@ layout: home
 title: Maison alouette
 header:
     image: assets/images/AlbanedeMarnhac-Photographeb-41.jpg
-excerpt: Maison alouette est une marque de vêtement et d'accessoire pour enfants.
+excerpt: Maison alouette vous propose un vestiaire élégant et rétro dans l'air du temps.
 author_profile: false
 instagram_posts:
     - CM-OUODnXDp
