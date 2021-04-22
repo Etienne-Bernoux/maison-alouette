@@ -7,5 +7,7 @@ main:
 footer:
   - title: Mentions légales
     url: /mentions-legales/
+  - title: Conditions générales de ventes
+    url: /condition-de-vente/
   - title: Nous contacter
     url: /contact/
