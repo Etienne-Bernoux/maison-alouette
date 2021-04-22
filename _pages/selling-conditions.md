@@ -1,5 +1,5 @@
 ---
-permalink: /condition-de-vente
+permalink: /condition-de-vente/
 layout: single
 title: Condition générale de vente
 ---
