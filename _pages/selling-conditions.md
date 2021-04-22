@@ -26,27 +26,31 @@ Le paiement en ligne s’effectue via la solution de paiement en ligne sécuris�
 
 ## Produit et Stock 
 
-Les produits de Maison Alouette sont bénéficiaires de la garantie légale de conformité ( article L 211-4 et suivants du code de la consommation ) et de la garantie des vices cachées ( article 1641 et suivants du Code civil) . 
+Les produits de Maison Alouette sont bénéficiaires de la garantie légale de conformité ( article L 211-4 et suivants du code de la consommation ) et de la garantie des vices cachées ( article 1641 et suivants du Code civil).
+
 Toute garantie est cependant exclue en cas de dommages externes ne découlant pas de la responsabilité légale de Maison Alouette. Sont mentionnés comme dommages externes une mauvaise utilisation, une utilisation non conforme, une négligence ou un défaut d’entretien de la part du client, ainsi qu’une usure dite normale du produit. 
 Maison Alouette se réserve le droit de supprimer ou de modifier la description d’un produit présent sur son site. 
 Les produits visibles sur le site de Maison Alouette sont disponibles jusqu’à épuisement des stocks. 
-Etant donnée la démarche responsable de Maison Alouette, certaine collection sont produites en très faibles quantités. Ainsi Maison Alouette pourra malheureusement être amenée à refuser une commande à cause de la petite quantité de ses stocks. 
+
+Étant donnée la démarche responsable de Maison Alouette, certaine collection sont produites en très faibles quantités. Ainsi Maison Alouette pourra malheureusement être amenée à refuser une commande à cause de la petite quantité de ses stocks.  
 En cas de débit ou d’encaissement d’une commande d’un produit devenu indisponible, Maison Alouette s’engage à rembourser ou à proposer un avoir au client concerné dans un délai de 14 jours à compter de la rupture du produit en question. 
 
 
 ## Droit de rétractation et retour 
 
-Conformément aux dispositions légales en vigueur, le consommateur dispose d’un droit de rétractation d’un délai de 14 jours sans avoir à justifier de motif. 
+Conformément aux dispositions légales en vigueur, le consommateur dispose d’un droit de rétractation d’un délai de 14 jours sans avoir à justifier de motif.   
 Le délai de rétractation commence à compter du jour de réception de la commande par le client. Si ce jour est un jour férié ou non ouvré, la date du départ du délai de rétractation est le jour ouvré suivant. 
 Si le client décide de faire valoir son droit de rétractation, il contacte d’abord Maison Alouette via courrier électronique à l’adresse mentionnée dans les mentions légales. 
 Le client devra alors renvoyer les produits qui ne lui conviennent pas et les frais de retour seront à sa charge. Les produits renvoyés ne devront pas comporter de tâches, et doivent ne pas avoir été portés, lavés, utilisés. Ils devront être accompagnés d’une copie du bon de commande établie. 
 Jusqu’à preuve du renvoi de la commande par le client et de sa réception par Maison Alouette, Maison Alouette ne sera pas en mesure de rembourser le client. 
-En cas de force majeure définie par la jurisprudence française ( cas de guerre , d’émeute, d’insurrection, de fermetures des frontières, d’incendie, de grève de pénurie ) et ayant un impact sur la confection, la production et la livraison des envois, Maison Alouette ne pourra rembourser le client. 
+
+En cas de force majeure définie par la jurisprudence française (cas de guerre, d’émeute, d’insurrection, de fermetures des frontières, d’incendie, de grève de pénurie) et ayant un impact sur la confection, la production et la livraison des envois, Maison Alouette ne pourra rembourser le client. 
 
 ## Livraison et transport 
 
 Les commandes sont préparées à Nyons dans nos ateliers, et elles sont livrées dans un délai de 4 à 7 jours maximum. 
 Ce délai tient compte de la préparation et de la livraison par le transporteur choisi. Nos commandes sont livrées par la Poste via Colissimo . 
 Maison Alouette n’est pas en mesure de garantir une heure et une date précise, cela dépend du transporteur. En cas de retard ou de perte, c’est le client qui devra contacter lui-même le fournisseur. Cependant, si le problème n’est pas réglé entre le client et le transporteur, Maison Alouette essaierai d’établir un accord. 
-Les commandes peuvent être envoyés en Europe, sur le territoire français et les Dom-Tom ainsi que la Corse. 
+
+Les commandes peuvent être envoyées en Europe, sur le territoire français et les Dom-Tom ainsi que la Corse. 
 Les frais d’expédition comprennent les frais de préparation et d’emballage ainsi que les frais de port. Maison Alouette recommande de grouper les produits dans une même commande afin que les frais d’expédition soient calculés au plus juste. 
