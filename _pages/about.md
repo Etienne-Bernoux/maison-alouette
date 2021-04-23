@@ -6,8 +6,11 @@ header:
     image: assets/images/AlbanedeMarnhac-Photographeb-163.jpg
 ---
 
-# Qui se cache derrière Maison Alouette ?
+# Une rencontre, deux regards, une envie commune
 
-C’est au cours d’un échange Instagram qu’Eysa et Albane commencent à échanger . Elles se rendent compte qu’elles partagent de nombreuses choses en commun, et qu’elles sont passées par les bancs de la maison d'éducation de la Légion d'honneur !
+Il n'y a pas de hasard, il n'y a que des rencontres. Et c'est bien ce qui s'est passé lorsqu'Eysa et Albane se sont rencontrées! 
+Un échange 2.0, puis un café chaud au coeur de Paris, et c'est le début d'une belle aventure. 
+Celle d'habiller les enfants avec intemporalité et fraicheur. 
 
-Eysa sait coudre et confectionner, Albane sait communiquer et prendre des photos ! Après quelques prototypes et des heures au téléphone, elles décident de se lancer pour vous proposer leur univers.
+Eysa et Albane ont toutes les deux un petit garçon, Ambroise et Léopold. Elles sont leurs premières sources d'inspiration ! 
+
