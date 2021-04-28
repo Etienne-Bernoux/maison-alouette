@@ -12,7 +12,7 @@ L’utilisateur, dénommé client accepte dès lors qu’il navigue et passe com
 L’utilisateur, pour passer commande suit le processus client mise en place par Maison Alouette.  
 Ainsi, le client choisit et sélectionne autant de produits qu’il le souhaite, ces derniers seront ensuite ajouté à son panier virtuel.  
 
-Le client peut tout à fait rectifier son panier ( enlever, modifjer, supprimer un produit ) jusqu’au dernier stade de validation de sa commande. 
+Le client peut tout à fait rectifier son panier ( enlever, modifier, supprimer un produit ) jusqu’au dernier stade de validation de sa commande. 
 Après avoir validé sa sélection, le client choisi ensuite un mode de livraison et remplit ses données personnelles utilisées pour l’envoi de sa commande. Le client doit s’assurer de l’exactitude et de la véracité de ses propres informations personnelles. En cas d’erreur dans le libellé des coordonnées du destinataire Maison Alouette ne pourra être tenu responsable. 
 Une fois ces informations remplies, le client accède au paiement de sa commande.  
 Après cette étape, une facture lui est envoyée par voie électronique. 
