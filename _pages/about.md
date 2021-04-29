@@ -13,5 +13,5 @@ Et c'est bien ce qui s'est passé lorsqu'Eysa et Albane se sont rencontrées!
 Un échange 2.0, puis un café chaud au coeur de Paris, et c'est le début d'une belle aventure. 
 Celle d'habiller les enfants avec intemporalité et fraicheur. 
 
-Eysa et Albane ont toutes les deux un petit garçon, Ambroise et Léopold. Elles sont leurs premières sources d'inspiration ! 
+Eysa et Albane ont chacune un petit garçon; Ambroise et Léopold. Ils sont leurs premières sources d'inspiration ! 
 
