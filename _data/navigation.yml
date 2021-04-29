@@ -3,6 +3,8 @@ main:
     url: https://shop.maison-alouette.fr
   - title: "L'équipe"
     url: /about/
+  - title: "Conseils d’entretien"
+    url: /advices/
 
 footer:
   - title: Mentions légales

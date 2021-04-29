@@ -3,11 +3,11 @@ permalink: /mentions-legales/
 layout: single
 title: Mentions légales
 header:
-    overlay_image: assets/images/alouettedeMarnhac-Photographeb-33.jpg
+    overlay_image: assets/images/AlbanedeMarnhac-Photographe-9-min.jpg
 ---
 
 
-Le site maison-alouette.fr est un site de commerce électronique édité et appartenant à Maison Alouette
+Le site maison-alouette.fr est un site de commerce électronique édité et appartenant à Maison Alouette.
 
 Maison Alouette est une marque déposée à l’INPI depuis mars 2021.  
 Dont le siège social est situé au chemin saint Martin 26110 Nyons.   
@@ -19,7 +19,7 @@ Directrices de la publication : Eysa Bernoux et Albane de Marnhac
 
 Photographies : tous droits réservés. Il est il strictement interdit d’utiliser, de reproduire les photos sans l’autorisation écrite de Maison Alouette.
 
-Les éléments présents sur le site sont la propriété de Maison Alouette, il est strictement interdit de les utiliser et de les reproduire ( texte, mise en page,graphique, images, logos )  
+Les éléments présents sur le site sont la propriété de Maison Alouette, il est strictement interdit de les utiliser et de les reproduire ( texte, mise en page,graphique, images, logos ).  
 Certains liens hypertextes renvoient à d’autres sites qui ne dépendent pas de la responsabilité de Maison Alouette. 
 
 L’ensemble du site est régi par la législation française et européenne sur sur le droit d’auteur, et la propriété intellectuelle. Ainsi que sur le droit du consommateur. 
